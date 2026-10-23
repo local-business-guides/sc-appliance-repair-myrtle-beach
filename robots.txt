@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/sitemap.xml
