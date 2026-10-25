@@ -28,6 +28,9 @@
 - [Appliance repair service Myrtle Beach](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/appliance-repair-service-myrtle-beach/): Appliance repair service Myrtle Beach: prepare for a repair visit, ask useful questions and plan your next step in Myrtle Beach.
 - [Appliances customer service Myrtle Beach](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/appliances-customer-service-myrtle-beach/): Appliances customer service Myrtle Beach: organize your questions and understand repair or parts next steps with local support in Myrtle Beach.
 
+## Newsroom
+- [SC Appliance Repair Releases Myrtle Beach Repair Guide and Audio](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/news/2026-10-25-sc-appliance-repair-releases-myrtle-beach-repair-g/): SC Appliance Repair released a guide to appliance repair in Myrtle Beach, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-25)
+
 ## Pages
 - [Appliance Repair in Myrtle Beach, South Carolina](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/): Get help with troublesome appliances in Myrtle Beach and find out what repair involves before deciding on a replacement. Call +1843-800-2212.
 - [About SC Appliance Repair & Contact](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/about/): About SC Appliance Repair, Myrtle Beach.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/sc-appliance-repair-myrtle-beach/news/rss.xml)
 - [Main resource site](https://sc-appliance-coastal-care-oct23.localwebsites.chatgpt.site)
